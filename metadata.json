@@ -1,0 +1,8 @@
+{
+  "name": "Wheel of Names Picker",
+  "description": "Interactive wheel of names picker featuring customizable slice colors, adjustable weights, smooth physics-based spinning animations, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
